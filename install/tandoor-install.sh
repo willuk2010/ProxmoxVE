@@ -24,6 +24,10 @@ $STD apt-get install -y --no-install-recommends \
   libsasl2-dev \
   libldap2-dev \
   libssl-dev \
+  pkg-config \
+  libxmlsec1-dev \
+  libxml2-dev \
+  libxmlsec1-openssl \
   gpg \
   curl \
   sudo \
